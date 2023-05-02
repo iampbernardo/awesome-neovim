@@ -3,7 +3,7 @@ A curated list of resources that help with my whole Neovim setup (or are related
 
 
 ## Setup
--  [LazzyVim](https://github.com/LazyVim/LazyVim): Nevim setup based on **lazyvim** so you don't have to start everything from scratch. (Recomended by @nhellwig)
+-  [LazzyVim](https://github.com/LazyVim/LazyVim): Nevim setup based on **lazyvim** so you don't have to start everything from scratch. (Recomended by [@nhellwig](https://github.com/nhellwig)
 
 
 
